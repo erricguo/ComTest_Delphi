@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/06 09:47:42.000.548,=C:\Users\Erric\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/12/24 16:23:47.000.244,=C:\Users\Erric\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/18 15:16:22.371,=C:\Users\Erric\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/18 15:16:44.304,C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\Unit1.pas=C:\Users\Erric\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/01/18 15:16:44.304,C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\Unit1.dfm=C:\Users\Erric\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/01/18 15:16:45.120,C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\Project1.dproj=C:\Users\Erric\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/01/18 15:17:11.825,=C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\CommDev.pas</Transaction>
+    <Transaction>2019/01/18 15:17:11.843,=C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\CommTypes.pas</Transaction>
+    <Transaction>2019/01/18 15:43:48.565,C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\COMTest.dproj=C:\Users\Erric\Documents\RAD Studio\Projects\COM測試\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
